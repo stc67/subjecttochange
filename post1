@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Post</title>
+  </head>
+  <body>
+    <h1>My First Post</h1>
+    <p>I wrote this while traveling...</p>
+
+    <a href="blog.html">Back to blog</a>
+  </body>
+</html>
